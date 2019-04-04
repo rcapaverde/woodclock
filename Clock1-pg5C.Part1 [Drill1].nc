@@ -1,0 +1,32 @@
+( Made using CamBam - http://www.cambam.co.uk )
+( Clock1-pg5C 2/17/2019 9:45:16 AM )
+( T0 : 1.5 )
+G21 G90 G64 G40
+G0 Z3.0
+( T0 : 1.5 )
+T0 M6
+( Drill1 )
+G17
+M3 S1000
+G0 X32.0 Y26.0
+G98
+G0 X32.0 Y26.0
+G0 Z3.0
+G1 Z-1.0 F100.0
+G0 Z3.0
+G0 X64.0 Y53.0
+G0 Z3.0
+G1 Z-1.0
+G0 Z3.0
+G0 X117.0 Y12.0
+G0 Z3.0
+G1 Z-1.0
+G0 Z3.0
+G0 X136.0 Y41.0
+G0 Z3.0
+G1 Z-1.0
+G0 Z3.0
+G80
+G0 Z3.0
+M5
+M30

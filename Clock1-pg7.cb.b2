@@ -28412,6 +28412,7 @@
             <prim>574</prim>
             <prim>469</prim>
             <prim>6</prim>
+            <prim>4</prim>
             <prim>44</prim>
             <prim>105</prim>
             <prim>7</prim>
@@ -28457,7 +28458,7 @@
           <PlungeFeedrate state="Value">100</PlungeFeedrate>
           <CutFeedrate state="Value">200</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
-          <StartPoint state="Default" />
+          <StartPoint state="Default">0,0,0</StartPoint>
           <CustomMOPHeader state="Default" />
           <CustomMOPFooter state="Default" />
           <Name>Profile2</Name>
@@ -28530,7 +28531,7 @@
           <PlungeFeedrate state="Value">100</PlungeFeedrate>
           <CutFeedrate state="Value">200</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
-          <StartPoint state="Default" />
+          <StartPoint state="Default">0,0,0</StartPoint>
           <CustomMOPHeader state="Default" />
           <CustomMOPFooter state="Default" />
           <Name>Pocket1</Name>
@@ -28568,11 +28569,11 @@
           <PlungeFeedrate state="Value">100</PlungeFeedrate>
           <CutFeedrate state="Value">200</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
-          <StartPoint state="Default" />
+          <StartPoint state="Default">0,0,0</StartPoint>
           <CustomMOPHeader state="Default" />
           <CustomMOPFooter state="Default" />
           <Name>Profile1</Name>
-          <StockSurface state="Value">-4.6</StockSurface>
+          <StockSurface state="Default">0</StockSurface>
           <RoughingClearance state="Default">0</RoughingClearance>
           <ClearancePlane state="Default">3</ClearancePlane>
           <SpindleDirection state="Default">CW</SpindleDirection>
@@ -28580,7 +28581,7 @@
           <SpindleRange state="Default">0</SpindleRange>
           <VelocityMode state="Default">Undefined</VelocityMode>
           <primitive>
-            <prim>5</prim>
+            <prim>11</prim>
           </primitive>
           <TargetDepth state="Value">-9.6</TargetDepth>
           <DepthIncrement state="Value">1</DepthIncrement>
@@ -28618,7 +28619,7 @@
           <PlungeFeedrate state="Value">100</PlungeFeedrate>
           <CutFeedrate state="Value">200</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
-          <StartPoint state="Default" />
+          <StartPoint state="Default">0,0,0</StartPoint>
           <CustomMOPHeader state="Default" />
           <CustomMOPFooter state="Default" />
           <Name>Profile3</Name>
@@ -28671,7 +28672,7 @@
           <PlungeFeedrate state="Value">100</PlungeFeedrate>
           <CutFeedrate state="Value">200</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
-          <StartPoint state="Default" />
+          <StartPoint state="Default">0,0,0</StartPoint>
           <CustomMOPHeader state="Default" />
           <CustomMOPFooter state="Default" />
           <Name>Profile2</Name>
@@ -28736,7 +28737,7 @@
           <PlungeFeedrate state="Value">100</PlungeFeedrate>
           <CutFeedrate state="Value">200</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
-          <StartPoint state="Default" />
+          <StartPoint state="Default">0,0,0</StartPoint>
           <CustomMOPHeader state="Default" />
           <CustomMOPFooter state="Default" />
           <Name>Profile3</Name>
@@ -28791,7 +28792,7 @@
           <PlungeFeedrate state="Value">100</PlungeFeedrate>
           <CutFeedrate state="Value">200</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
-          <StartPoint state="Default" />
+          <StartPoint state="Default">0,0,0</StartPoint>
           <CustomMOPHeader state="Default" />
           <CustomMOPFooter state="Default" />
           <Name>Profile2</Name>
